@@ -17,6 +17,7 @@ defmodule AnagramsWeb.Router do
     pipe_through :browser # Use the default browser stack
 
     get "/", PageController, :index
+    post "/", PageController, :dictionary_upload
   end
 
   # Other scopes may use custom stacks.
