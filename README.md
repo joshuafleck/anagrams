@@ -1,5 +1,3 @@
-# Anagrams
-
 ![Anagrams](/anagrams.png)
 
 To start your Phoenix server:
